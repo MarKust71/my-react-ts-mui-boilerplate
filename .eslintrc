@@ -1,4 +1,5 @@
 {
+  "ignorePatterns": ["src/serviceWorker.ts", "plop-templates/**/*.hbs"],
   "parser": "@typescript-eslint/parser",
   "plugins": ["@typescript-eslint", "react", "react-hooks", "import"],
   "settings": {
